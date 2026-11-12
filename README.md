@@ -1,118 +1,238 @@
 <div align="center">
 
-# Vamshi Animela
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Vamshi%20Animela&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=React%20Native%20Developer%20%C2%B7%20Frontend%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Vamshi Animela, React Native Developer and Frontend Engineer" />
 
-### React Native Developer · Frontend Engineer
+<a href="https://vamshi-dev-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&width=760&height=50&lines=I+build+digital+experiences+that+move+businesses+forward.;Shipping+iOS+%26+Android+apps+from+one+TypeScript+codebase.;React+Native+%C2%B7+Next.js+%C2%B7+TypeScript;3%2B+years+%C2%B7+App+Store+%26+Google+Play+releases;Open+to+relocation%2C+remote+and+freelance+work." alt="Typing animation: what I do" />
+</a>
 
-I ship production iOS and Android apps to the App Store and Google Play from a single TypeScript codebase, and build fast React and Next.js sites for clients in the UK and India.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vamshi.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vamshi-dev-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-animela-449765221/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamshianimela.3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-VAMSHI.DEV-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vamshi-dev-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-animela-449765221/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamshianimela.3@gmail.com)
 
-📍 Hyderabad, India · Open to relocation, remote and freelance work
+![Experience](https://img.shields.io/badge/Experience-3%2B_years-2c5364?style=flat-square)
+![Location](https://img.shields.io/badge/Hyderabad-India-2c5364?style=flat-square)
+![Status](https://img.shields.io/badge/Available-Remote_%C2%B7_Relocation_%C2%B7_Freelance-2ea44f?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Vamshi5k&style=flat-square&color=2c5364&label=Profile+views)
 
 </div>
 
----
+<br/>
 
-## 👋 About
+## 🧑‍💻 About me
 
-- 📱 **3+ years** building for mobile and web, currently a **React Native Developer (iOS & Android)** at SpackDigi Solutions
-- 📈 Grew from **Web Developer Intern → Frontend Developer → React Native Developer** at the same company
-- 🚀 Take features from UI and API integration all the way to **store releases**
-- 🧩 Day to day: Redux and Context API state, REST and WebSocket integration, Google Maps, geolocation and payment flows
-- 🌐 Freelance: delivered **4 client websites** end to end, from design to deployment
+```typescript
+const vamshi = {
+  role: "React Native Developer (iOS & Android)",
+  company: "SpackDigi Solutions",
+  location: "Hyderabad, India",
+  experience: "3+ years",
+  journey: ["Web Developer Intern", "Frontend Developer", "React Native Developer"],
+  ships: ["App Store", "Google Play", "Vercel"],
+  dailyDrivers: ["React Native", "TypeScript", "Next.js", "Redux"],
+  freelance: { clients: 4, regions: ["UK", "India"] },
+  languages: ["English", "Telugu", "Hindi"],
+  openTo: ["Relocation", "Remote", "Freelance"],
+};
+```
 
-## 📱 Selected app work
+- 📱 I take features from **UI and API integration all the way to store releases** on the App Store and Google Play
+- 🧩 My work spans Redux and Context API state, REST and WebSocket integration, Google Maps, geolocation and payment flows
+- 🌐 I also build **React.js and Next.js sites for freelance clients** in the UK and India, delivered end to end
 
-| Project | What it does | Highlights | Stack |
-| --- | --- | --- | --- |
-| **EV Charging Station Finder** | Find, book and pay for EV charging stations with real-time availability | Optimized map rendering and background polling to improve responsiveness and cut battery use | React Native, Expo, Google Maps SDK, Geolocation, Payment Gateway |
-| **Poster Creation & Campaign Management** | Create campaign posters and share them to WhatsApp, Instagram, Facebook and X in one tap | Template editor with live preview and layering, role-based dashboards, multilingual profiles, subscription plans | React Native, Node.js, Cloud Storage, Payment Gateway |
-| **Venue Booking** | Discover and book venues, filtered by location, price, capacity and amenities | WebSocket availability sync, optimistic UI updates, AsyncStorage caching, drag-and-drop calendar | React Native, WebSocket, AsyncStorage |
-| **Zylo E-commerce** | E-commerce app interface (frontend only) | Storefront UI | React Native |
+<br/>
 
-## 🌐 Client websites
+## 🚀 Featured work
 
-| Client | Type | Live |
-| --- | --- | --- |
-| **Yasad Ltd** (UK) | Marketing site with services, testimonials and contact | [yasad-project.vercel.app](https://yasad-project.vercel.app) |
-| **SR Travels** (Varanasi) | Travel, taxi and pilgrimage tour site with SEO meta tags and social previews | [sr-travels-website.vercel.app](https://sr-travels-website.vercel.app) |
-| **Sree Annapurna Cloud Kitchen** | Mobile-friendly cloud kitchen website | [annapurna-cloud-kitchen.vercel.app](https://annapurna-cloud-kitchen.vercel.app) |
-| **Manasvi Sketches** | Artist portfolio | [manasvi-sketches.vercel.app](https://manasvi-sketches.vercel.app) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ EV Charging Station Finder</h3>
+      <p>Cross-platform app to discover, book and pay for EV charging stations with real-time availability.</p>
+      <p><b>Highlight:</b> optimized map rendering and background API polling to improve responsiveness and reduce battery use.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/Google_Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps SDK" />
+        <img src="https://img.shields.io/badge/Payments-2ea44f?style=flat-square" alt="Payments" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Poster Creation & Campaign Management</h3>
+      <p>Create campaign posters and share them to WhatsApp, Instagram, Facebook and X in one tap.</p>
+      <p><b>Highlight:</b> template editor with live preview and layering, role-based dashboards, multilingual profiles and subscription plans.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Storage" />
+        <img src="https://img.shields.io/badge/Payments-2ea44f?style=flat-square" alt="Payments" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📅 Venue Booking</h3>
+      <p>Discover and book venues, filtered by location, price, capacity and amenities.</p>
+      <p><b>Highlight:</b> WebSocket availability sync, optimistic UI updates, AsyncStorage caching and a drag-and-drop calendar.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+        <img src="https://img.shields.io/badge/AsyncStorage-764ABC?style=flat-square" alt="AsyncStorage" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ Zylo E-commerce</h3>
+      <p>E-commerce app interface with product browsing and shopping screens.</p>
+      <p><b>Scope:</b> frontend only, no backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🌐 Live client sites
+
+| Client | What I built | Live |
+| :-- | :-- | :-: |
+| **Yasad Ltd** 🇬🇧 | Marketing site with services, testimonials and contact | [![Visit](https://img.shields.io/badge/Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://yasad-project.vercel.app) |
+| **SR Travels** 🇮🇳 | Travel, taxi and pilgrimage tour site with SEO meta tags and social previews | [![Visit](https://img.shields.io/badge/Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://sr-travels-website.vercel.app) |
+| **Sree Annapurna Cloud Kitchen** 🇮🇳 | Mobile-friendly cloud kitchen website | [![Visit](https://img.shields.io/badge/Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://annapurna-cloud-kitchen.vercel.app) |
+| **Manasvi Sketches** 🇮🇳 | Online portfolio for an artist's sketch work | [![Visit](https://img.shields.io/badge/Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://manasvi-sketches.vercel.app) |
+
+<br/>
 
 ## 🛠 Tech stack
 
-**Mobile**
+<div align="center">
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+**Mobile & frontend**
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,styledcomponents,html,css&perline=10" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Material UI, Styled Components, HTML, CSS" />
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+**Platform & tools**
 
-**State & integration**
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,nodejs,git,github,postman,vercel,figma,vscode&perline=10" alt="Android Studio, Firebase, Node.js, Git, GitHub, Postman, Vercel, Figma, VS Code" />
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+<br/><br/>
 
-Context API · AsyncStorage · REST APIs · WebSockets · Payment integrations
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+![Google Play](https://img.shields.io/badge/Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 
-**Tools**
+</div>
 
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+| Area | What I use |
+| :-- | :-- |
+| **Mobile** | React Native, Expo, React Navigation, native modules, animations and gestures |
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, Material UI, Styled Components, ShadCN UI |
+| **State** | Redux, Context API, AsyncStorage |
+| **Integration** | REST APIs, WebSockets, Axios, Google Maps, geolocation, payment gateways |
+| **Quality** | Performance profiling, code splitting, lazy loading, SEO, ESLint, Prettier |
 
-App Store Connect · Google Play Console
+<br/>
 
-## 💼 Experience
+## 💼 Career path
 
-**SpackDigi Solutions, Hyderabad**
+```mermaid
+timeline
+    title SpackDigi Solutions, Hyderabad
+    Aug 2023 : Web Developer Intern : Web UI development
+    Nov 2023 : Frontend Developer : React.js and Next.js production apps : Converted to full-time in three months
+    Nov 2024 : React Native Developer : iOS and Android apps : App Store and Google Play releases
+```
 
-| Role | Period | Focus |
-| --- | --- | --- |
-| **React Native Developer (iOS & Android)** | Nov 2024 – Present | Cross-platform apps in React Native and TypeScript, shipped to both stores; platform debugging in Xcode and Android Studio; code reviews in Agile sprints |
-| **Frontend Developer** | Nov 2023 – Nov 2024 | Production web apps in React.js and Next.js; reusable component libraries; faster page loads through code splitting and lazy loading; SEO |
-| **Web Developer Intern** | Aug 2023 – Nov 2023 | Web UI development; converted to full-time within three months |
+<details>
+<summary><b>React Native Developer (iOS & Android)</b> · Nov 2024 – Present</summary>
+<br/>
 
-## 🤝 Work with me
+- Build cross-platform iOS and Android apps in React Native and TypeScript from a shared codebase
+- Own features from UI and API integration through to production releases on both stores
+- Debug platform-specific issues in Xcode and Android Studio, and contribute to code reviews in Agile sprints
 
-I take on freelance work alongside my full-time role:
+</details>
 
-- **React Native and Expo apps** for iOS and Android
-- **Business websites and landing pages** in Next.js, delivered in as little as 3 days
-- **E-commerce frontends** connected to your existing backend or API
-- **Bug fixes, new features and performance tuning** for existing React and React Native apps
+<details>
+<summary><b>Frontend Developer</b> · Nov 2023 – Nov 2024</summary>
+<br/>
 
-📫 **vamshianimela.3@gmail.com** · [See services and pricing](https://vamshi-dev-portfolio.vercel.app/#services)
+- Delivered production web applications with React.js and Next.js, responsive and SEO-optimized across devices
+- Built reusable UI components with React Hooks, Tailwind CSS, Material UI and Styled Components
+- Improved page load performance with code splitting and lazy loading
 
-## 🎓 Education
+</details>
 
-**B.Tech, Electronics and Communication Engineering**, Annamacharya Institute of Technology and Sciences (2022)
-Certificate: Frontend Developer, Ace Web Academy
+<details>
+<summary><b>Web Developer Intern</b> · Aug 2023 – Nov 2023</summary>
+<br/>
 
----
+- Contributed to web UI development and was converted to a full-time role within three months
+
+</details>
+
+<br/>
+
+## 📊 GitHub analytics
 
 <div align="center">
 
-**Have an idea? Let's make it real.**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vamshi5k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi5k&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-[Portfolio](https://vamshi-dev-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vamshi-animela-449765221/) · [Email](mailto:vamshianimela.3@gmail.com)
+<img src="https://streak-stats.demolab.com?user=Vamshi5k&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamshi5k&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vamshi5k/Vamshi5k/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Vamshi5k/Vamshi5k/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" />
+  </picture>
+</div>
+
+<br/>
+
+## 🤝 Work with me
+
+| Service | Details |
+| :-- | :-- |
+| 📱 **React Native & Expo apps** | iOS and Android from one TypeScript codebase |
+| 🏢 **Business websites** | Next.js sites, delivered in as little as 3 days |
+| 🛒 **E-commerce frontends** | Connected to your existing backend or API |
+| 🎯 **Landing pages** | For a product, service or campaign |
+| 🔧 **Fixes, features & performance** | For existing React and React Native apps |
+
+<div align="center">
+
+[![See services and pricing](https://img.shields.io/badge/See_services_and_pricing-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://vamshi-dev-portfolio.vercel.app/#services)
+[![Email me](https://img.shields.io/badge/vamshianimela.3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamshianimela.3@gmail.com)
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+**B.Tech, Electronics and Communication Engineering** · Annamacharya Institute of Technology and Sciences · 2022
+**Certificate:** Frontend Developer, Ace Web Academy
+
+<div align="center">
+
+### Have an idea? Let's make it real.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="" />
 
 </div>
